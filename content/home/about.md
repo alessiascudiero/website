@@ -1,13 +1,12 @@
 ---
-widget: Academic
+widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
 headless: true
 weight: 10
 title: ""
 active: true
 author: admin
-widget_id: Alessia Scudiero
+widget_id: RECENT-POSTS
 design:
   background:
-    image: ridimensionata.jpg
+    image: ""
 ---
-Alessia Scudiero is a second-year Economics PhD Student at Emory University.
