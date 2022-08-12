@@ -1,7 +1,6 @@
 baseURL = "http://www.alessiascudiero.info/"
 languageCode = "en-us"
 title = "Alessia Scudiero"
-theme = "mysite-hugo-theme"
 [params]
 description = ""
 keywords = ""
