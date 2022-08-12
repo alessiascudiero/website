@@ -42,5 +42,5 @@ content:
 design:
   columns: "2"
   background:
-    image: ridimensionata.jpg
+    image: ""
 ---
