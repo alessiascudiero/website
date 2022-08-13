@@ -13,8 +13,8 @@ content:
     netlify:
       captcha: false
   autolink: true
+  directions: Rich Memorial Building, Room 310D
   address:
-    directions: Rich Memorial Building, Room 310D
     street: 1602 Fishburne Dr.
     city: Atlanta
     region: GA
