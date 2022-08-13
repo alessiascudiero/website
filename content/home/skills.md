@@ -19,12 +19,12 @@ feature:
   - icon: r-project
     icon_pack: fab
     name: R
-  - icon: chart-line
-    icon_pack: fas
-    name: Statistics
   - icon: python
     icon_pack: fab
     name: Python
+  - icon: chart-line
+    icon_pack: fas
+    name: Economics & Statistics
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
