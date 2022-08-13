@@ -5,7 +5,8 @@ avatar_filename: ridimensionata.jpg
 bio: Second-year economics PhD student at Emory University. My research
   interests include applied macroeconomics and time series analysis.
 interests:
-  - Macroeconomics
+  - Applied Macroeconomics
+  - Monetary Policy
   - Time Series Analysis
 social:
   - icon: github
