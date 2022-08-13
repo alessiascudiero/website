@@ -15,6 +15,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/alessia-scudiero-054521189
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/alessiascd
 organizations:
   - name: Emory University
     url: https://www.emory.edu/home/index.html
