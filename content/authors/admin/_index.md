@@ -1,4 +1,5 @@
 ---
+title: Alessia Scudiero
 role: Economics PhD Student
 avatar_filename: ridimensionata.jpg
 bio: Second-year economics PhD student at Emory University. My research
@@ -29,9 +30,8 @@ education:
       year: 2019
     - course: B.Sc. in Business Economics
       institution: Università degli studi di Torino
-      year: 2001
+      year: 2017
+email: alessia.scudiero@emory.edu
 superuser: true
 highlight_name: true
-title: Alessia Scudiero
-email: alessia.scudiero@emory.edu
 ---
