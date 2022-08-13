@@ -6,7 +6,7 @@ bio: Second-year economics PhD student at Emory University. My research
   interests include applied macroeconomics and time series analysis.
 interests:
   - Macroeconomics
-  - Time_Series_Analysis
+  - Time Series Analysis
 social:
   - icon: github
     icon_pack: fab
