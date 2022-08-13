@@ -21,7 +21,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Emory University
-      year: ""
+      year: 2026
     - course: M.Sc. in Economics
       institution: Università degli studi di Torino
       year: 2019
