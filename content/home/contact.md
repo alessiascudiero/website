@@ -14,25 +14,19 @@ content:
       captcha: false
   autolink: true
   address:
-    street: Rich Memorial Building, Room 310D, 1602 Fishburne Dr
+    direction: Rich Memorial Building, Room 310D
+    street: 1602 Fishburne Dr.
     city: Atlanta
     region: GA
-    postcode: "94305"
+    postcode: "30322"
     country: United States
     country_code: US
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: https://twitter.com/Twitter
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: https://zoom.com
-  coordinates:
-    latitude: "37.4275"
-    longitude: "-122.1697"
-  email: test@example.org
+      link: https://twitter.com/alessiascd
+  email: ascudie@emory.edu
 design:
   columns: "2"
   background:
