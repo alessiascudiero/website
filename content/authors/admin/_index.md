@@ -19,7 +19,7 @@ organizations:
     url: https://www.emory.edu/home/index.html
 education:
   courses:
-    - course: PhD in Economics
+    - course: Ph.D. in Economics
       institution: Emory University
       year: 2026
     - course: M.Sc. in Economics
