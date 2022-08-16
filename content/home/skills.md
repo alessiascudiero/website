@@ -25,7 +25,7 @@ feature:
   - icon: chart-simple
     icon_pack: fas
     name: STATA
-  - icon: chart-bar
+  - icon: chart-simple
     icon_pack: fas
     name: Matlab
   - icon: chart-line
