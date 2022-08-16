@@ -22,10 +22,10 @@ feature:
   - icon: python
     icon_pack: fab
     name: Python
-  - icon: chart-simple
+  - icon: chart-pie
     icon_pack: fas
     name: STATA
-  - icon: chart-simple
+  - icon: chart-bar
     icon_pack: fas
     name: Matlab
   - icon: chart-line
