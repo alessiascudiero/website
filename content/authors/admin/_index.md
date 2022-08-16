@@ -14,7 +14,7 @@ social:
     link: https://github.com/alessiascudiero
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/alessia-scudiero
+    link: https://www.linkedin.com/alessia-scudiero/
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/alessiascd
