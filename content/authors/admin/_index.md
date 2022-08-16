@@ -1,8 +1,8 @@
 ---
 title: Alessia Scudiero
-role: Economics PhD Student
+role: Economics Ph.D. Student
 avatar_filename: ridimensionata.jpg
-bio: Second-year economics PhD student at Emory University. My research
+bio: Second-year economics Ph.D. student at Emory University. My research
   interests include applied macroeconomics and time series analysis.
 interests:
   - Applied Macroeconomics
