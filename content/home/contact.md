@@ -13,9 +13,9 @@ content:
     netlify:
       captcha: false
   autolink: true
-  directions: Rich Memorial Building, Room 310D
+  directions: R. Randall Rollins Building, Office R435
   address:
-    street: 1602 Fishburne Dr.
+    street: 1534 Clifton Rd.
     city: Atlanta
     region: GA
     postcode: "30322"
