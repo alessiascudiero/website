@@ -39,5 +39,7 @@ email: alessia.scudiero@emory.edu
 superuser: true
 highlight_name: true
 ---
-I am a rising fourth-year Economics Ph.D. student at Emory University. My research interests include Macroeconometrics and Applied Macroeconomics, with a special focus on Monetary Policy. I am also an alumna of Università degli studi di Torino, where I graduated summa cum laude with a bachelor's degree in Business Economics (2017) and a double Master's degree in Economics and International Public Finance (2019) jointly with the Université de Rennes 1. Prior to starting my PhD program I worked as a trainee in the Monetary Analysis division of the European Central Bank. 
+I am a rising fourth-year Economics Ph.D. student at Emory University. My research interests include Macroeconometrics and Applied Macroeconomics, with a special focus on Monetary Policy. \\
+I am an alumna of Università degli studi di Torino, where I graduated summa cum laude with a bachelor's degree in Business Economics (2017) and a dual Master's degree in Economics (Università degli studi di Torino) and International Public Finance (Université de Rennes 1). \\ 
+Prior to starting my PhD program at Emory, I worked as a trainee in the Monetary Analysis division of the European Central Bank. \\
 I am currently visiting the Research Department of the Federal Reserve Bank of Cleveland as an American Economic Association (AEA) Summer Fellow.
