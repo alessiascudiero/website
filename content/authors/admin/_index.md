@@ -2,13 +2,12 @@
 title: Alessia Scudiero
 role: Economics Ph.D. Student
 avatar_filename: ridimensionata.jpg
-bio: Third-year economics Ph.D. student at Emory University. My research
+bio: Rising fourth-year economics Ph.D. student at Emory University. My research
   interests include macroeconometrics, applied macroeconomics and monetary policy.
 interests:
   - Macroeconometrics
   - Applied Macroeconomics
   - Monetary Policy
-  - Time Series Analysis
 social:
   - icon: github
     icon_pack: fab
@@ -40,4 +39,5 @@ email: alessia.scudiero@emory.edu
 superuser: true
 highlight_name: true
 ---
-I am a third-year Economics Ph.D. student at Emory University. My research interests include Macroeconometrics, Applied Macroeconomics, Monetary Policy and Time Series Analysis. I am also an alumna of Università degli studi di Torino, where I graduated with both a bachelor's degree in Business Economics (2017) and a double Master's degree in Economics and International Public Finance (2019) jointly with the Université de Rennes 1. My professional experience includes a traineeship in the Monetary Analysis division of the European Central Bank and an internship in the risk management department of a financial asset management company.
+I am a rising fourth-year Economics Ph.D. student at Emory University. My research interests include Macroeconometrics and Applied Macroeconomics, with a special focus on Monetary Policy. I am also an alumna of Università degli studi di Torino, where I graduated summa cum laude with a bachelor's degree in Business Economics (2017) and a double Master's degree in Economics and International Public Finance (2019) jointly with the Université de Rennes 1. Prior to starting my PhD program I worked as a trainee in the Monetary Analysis division of the European Central Bank. 
+I am currently visiting the Research Department of the Federal Reserve Bank of Cleveland as an American Economic Association (AEA) Summer Fellow.
