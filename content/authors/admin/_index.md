@@ -4,7 +4,7 @@ role: Economics Ph.D. Candidate
 avatar_filename: ridimensionata.jpg
 bio: Fith-year economics Ph.D. candidate at Emory University. My research
   interests include Macroeconomics, Monetary and Fiscal policy and Time Series Econometrics.
-interests:
+interests: 
   - Macroeconomics
   - Monetary and Fiscal Policy
   - Time Series Econometrics
